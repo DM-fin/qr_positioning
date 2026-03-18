@@ -43,10 +43,10 @@ h1 {
 button {
     background-color: var(--theme);
     transition: all;
-    transform: scale(1);
+    transform: scale(2);
 }
 
 button:hover {
     cursor: pointer;
-    outline: 5px blue;
+    outline: 5px solid blue;
 }
