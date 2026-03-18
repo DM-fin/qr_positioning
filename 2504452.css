@@ -50,7 +50,7 @@ button {
 }
 
 button:hover {
-    outline: blue 5px solid;
+    outline: blue 2px solid;
     cursor: pointer;
 }
 
