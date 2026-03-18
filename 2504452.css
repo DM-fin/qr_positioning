@@ -42,7 +42,7 @@ h1 {
 
 button {
     background-color: var(--theme);
-    transition: all 0.3s;
+    transition: all;
     transform: scale(2);
 }
 
