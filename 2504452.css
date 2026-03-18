@@ -42,6 +42,7 @@ h1 {
 
 button {
     background-color: var(--theme);
+    transition: all;
 }
 
 button:hover {
