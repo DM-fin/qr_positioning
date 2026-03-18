@@ -40,13 +40,13 @@ h1 {
     width: 100%;
 }
 
-button {
+#btn {
     background-color: var(--theme);
-    /* transition: all; */
+    transition: all;
     transform: scale(1);
 }
 
-button:hover {
+#btn:hover {
     cursor: pointer;
     background-color: blue;
 }
