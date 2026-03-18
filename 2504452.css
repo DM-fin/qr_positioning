@@ -41,13 +41,15 @@ h1 {
 }
 
 button {
+    font-size: 16px;
     background-color: var(--theme);
-    transition: all 0.3s;
-    transform: scale(2);
+    color: white;
+    border: none;
+    border-radius: 50%;
 }
 
 button:hover {
+    outline: blue 5px solid;
     cursor: pointer;
-    outline: 5px solid blue;
-    /* background-color: aqua; */
 }
+
