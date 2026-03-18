@@ -48,5 +48,5 @@ button {
 
 button:hover {
     cursor: pointer;
-    outline: blue;
+    outline: 5px blue;
 }
