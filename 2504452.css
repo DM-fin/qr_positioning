@@ -39,3 +39,12 @@ h1 {
 #camera {
     width: 100%;
 }
+
+#btg {
+    background-color: var(--theme);
+}
+
+#btg:hover {
+    cursor: pointer;
+    background-color: blue;
+}
