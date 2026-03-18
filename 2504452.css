@@ -42,7 +42,8 @@ h1 {
 
 button {
     background-color: var(--theme);
-    transition: all;
+    transition: all 0.3s;
+    transform: scale(2);
 }
 
 button:hover {
