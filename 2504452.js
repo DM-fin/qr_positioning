@@ -36,6 +36,6 @@ function stopScanner() {
 }
 
 function showMarkerAt(top, left) {
-    showMarkerAt.style.top = top;
-    showMarkerAt.style.left = left;
+    marker.style.top = top;
+    marker.style.left = left;
 }
