@@ -51,7 +51,7 @@ button {
 
 button:hover {
     outline: blue 2px solid;
-    transform: scale (3);
+    transform: scale(3);
     cursor: pointer;
 }
 
