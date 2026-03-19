@@ -1,3 +1,8 @@
+const inventory = document.getElementById("inventory");
+const mapContainer = document.getElementById("mapContainer");
+const btn = document.getElementById("btn");
+const marker = document.getElementById("marker");
+
 const reader = new Html5Qrcode("camera");
 
 let scannerOn = false;
